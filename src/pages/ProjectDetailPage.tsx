@@ -112,7 +112,7 @@ export const ProjectDetailPage: React.FC<Props> = ({ slug, data, onNavigate }) =
               id="project-inquire-whatsapp-btn"
             >
               <MessageCircle className="w-4 h-4" />
-              <span>Inquire via WhatsApp</span>
+              <span>View More on WA</span>
             </a>
           </div>
         </div>
