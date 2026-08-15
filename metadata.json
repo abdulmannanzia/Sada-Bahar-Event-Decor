@@ -1,0 +1,6 @@
+{
+  "name": "Sada Bahar Event & Decor",
+  "description": "Premium wedding decoration, stage decor, car decoration, and complete event management website and CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

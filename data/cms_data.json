@@ -1,0 +1,453 @@
+{
+  "settings": {
+    "siteName": "Sada Bahar Event & Decor",
+    "tagline": "Weddings | Stage | Car Decor | Event Management",
+    "logo": "/src/assets/images/sada_bahar_logo_1786553895805.jpg",
+    "favicon": "/src/assets/images/sada_bahar_logo_1786553895805.jpg",
+    "primaryGold": "#D4AF37",
+    "darkBg": "#0B0B0B",
+    "lightBg": "#FAF8F3",
+    "copyrightText": "© 2026 Sada Bahar Decor. All Rights Reserved."
+  },
+  "contact": {
+    "stagePhone": "0332-5841288",
+    "shopPhone": "0333-9161630",
+    "whatsapp": "0333-9161630",
+    "email": "contact@sadabahardecor.com",
+    "address": "Jarwanda Road, In front of International School and PAF Gate No. 3, 4, Near Peshawari Hotel, Pakistan.",
+    "googleMapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.3524!2d71.52!3d34.01!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDAwJzM2LjAiTiA3McKwMzEnMTI4MCIuRSI!5e0!3m2!1sen!2spk!4v1620000000000!5m2!1sen!2spk",
+    "googleMapUrl": "https://maps.google.com/?q=Jarwanda+Road+PAF+Gate+Peshawari+Hotel",
+    "businessHours": "Monday – Sunday: 10:00 AM – 10:00 PM"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/sadabahar_events.decor",
+    "tiktok": "https://www.tiktok.com/@sadabahar.eventdecor7",
+    "facebook": "https://www.facebook.com/share/1UrFZsB7hr/",
+    "snapchat": "https://snapchat.com/t/cQaKyxHk",
+    "youtube": "https://www.youtube.com/@SADABAHAREVENTDECOR"
+  },
+  "homepage": {
+    "heroHeading": "Welcome to Sada Bahar Event & Decor",
+    "heroSubheading": "Providing premium wedding decoration, stage decoration, car decoration, and complete event management services in Pakistan with unparalleled elegance.",
+    "heroImage": "/src/assets/images/hero_green_stage_1786557977889.jpg",
+    "heroCtaText": "View Portfolio",
+    "owner": {
+      "name": "Humza",
+      "photo": "/src/assets/images/owner_portrait_1786558468734.jpg",
+      "biography": "Sada Bahar Event & Decor is a premier event design and setup company dedicated to crafting breathtaking celebrations across Pakistan. With years of mastery in grand stage construction, bespoke floral geometry, and royal wedding setups, our team turns dream weddings into timeless realities.",
+      "vision": "To be Pakistan's most trusted luxury event design house, renowned for creative excellence, flawless execution, and unforgettable stage ambience.",
+      "mission": "To deliver tailored, high-end decor solutions that reflect each client's personal heritage and vision with total peace of mind.",
+      "achievements": [
+        "Over 500+ successful royal wedding stage setups completed.",
+        "Specialized team for custom bridal car and venue decor.",
+        "100% on-time setup guarantee for all events."
+      ],
+      "whyTrustUs": "We prioritize perfection, premium fresh/silk floral craftsmanship, transparent pricing, and dedicated on-site event managers for every client."
+    },
+    "whyChooseUs": [
+      {
+        "id": "why-1",
+        "title": "Premium Decoration",
+        "description": "High-grade lighting, luxury fabrics, crystal chandeliers, and fresh floral setups tailored for royal celebrations.",
+        "iconName": "Crown"
+      },
+      {
+        "id": "why-2",
+        "title": "Professional Team",
+        "description": "Experienced stage artists, floral designers, and event managers handling end-to-end execution.",
+        "iconName": "Users"
+      },
+      {
+        "id": "why-3",
+        "title": "Creative Designs",
+        "description": "Customized thematic designs ranging from traditional royal wedding stages to minimalist contemporary decor.",
+        "iconName": "Sparkles"
+      },
+      {
+        "id": "why-4",
+        "title": "Customized Events",
+        "description": "Tailored event packages designed according to client budget, color palettes, and specific venue dimensions.",
+        "iconName": "SlidersHorizontal"
+      },
+      {
+        "id": "why-5",
+        "title": "Reliable Service",
+        "description": "Punctual setup times and zero delay guarantee so your special event runs flawlessly.",
+        "iconName": "ShieldCheck"
+      },
+      {
+        "id": "why-6",
+        "title": "Customer Satisfaction",
+        "description": "Hundreds of delighted families trusting us for their Barat, Walima, Mehndi, and special occasions.",
+        "iconName": "HeartHandshake"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "service-stage",
+      "title": "Stage Decoration",
+      "shortDescription": "Luxury royal stage setups for weddings, Barat, Walima, and grand celebrations.",
+      "longDescription": "Bespoke bridal stage designs featuring crystal chandeliers, gold carving structures, custom backdrop velvet/silk drapery, and plush couple seating.",
+      "image": "/src/assets/images/stage_decor_service_1786735848741.jpg",
+      "whatsappChannelUrl": "https://whatsapp.com/channel/0029VbDDjXfHbFVCpobPzJ0K",
+      "order": 1
+    },
+    {
+      "id": "service-fresh-flower",
+      "title": "Fresh Flower Decoration",
+      "shortDescription": "Exquisite fresh floral arrangements, stage backdrops, entry pathways, and table centerpieces.",
+      "longDescription": "Premium fresh rose, lily, jasmine, and imported floral arrangements crafted for stages, venue entryways, walkway pillars, and head tables.",
+      "image": "/src/assets/images/fresh_flower_service_1786735863117.jpg",
+      "whatsappChannelUrl": "https://whatsapp.com/channel/0029Vb8PHc4DDmFPcwNQF02M",
+      "order": 2
+    },
+    {
+      "id": "service-bouquets",
+      "title": "Fresh & Artificial Bouquets",
+      "shortDescription": "All types of customized fresh flower and premium artificial floral bouquets for all occasions.",
+      "longDescription": "Custom bridal hand bouquets, bridesmaid floral sets, presentation bouquets, and everlasting artificial flower arrangements.",
+      "image": "/src/assets/images/bouquets_service_1786735873591.jpg",
+      "whatsappChannelUrl": "https://whatsapp.com/channel/0029Vb8eNHA9Gv7NtW9Eaw0g",
+      "order": 3
+    },
+    {
+      "id": "service-car",
+      "title": "Car Decoration",
+      "shortDescription": "Elegant and customized bridal wedding car decoration with fresh roses, silk nets, and luxury styling.",
+      "longDescription": "High-end bridal car floral setups with fresh imported roses, delicate net bows, heart motifs, ribbons, and scratch-safe mounting techniques.",
+      "image": "/src/assets/images/car_decor_service_1786735883793.jpg",
+      "whatsappChannelUrl": "https://whatsapp.com/channel/0029VbDP0FrBqbr1BgkZpy3M",
+      "order": 4
+    },
+    {
+      "id": "service-gifts",
+      "title": "Gift Items & Customized Items",
+      "shortDescription": "Bespoke event gift packaging, customized hampers, bridal trays, and personalized giveaway items.",
+      "longDescription": "Custom-crafted gift packaging, luxury trousseau packing, bid trays, engagement ring platters, customized event boxes, and celebratory hampers.",
+      "image": "/src/assets/images/gift_items_service_1786735893944.jpg",
+      "whatsappChannelUrl": "https://whatsapp.com/channel/0029Vb8cFnQFsn0YWulx1B1g",
+      "order": 5
+    },
+    {
+      "id": "service-gajra",
+      "title": "Gajra & Flower Garlands",
+      "shortDescription": "Traditional handcrafted fresh flower Gajras, bridal bracelets, and royal floral garlands (Haar).",
+      "longDescription": "Fresh and fragrant Motia / Jasmine gajras, rose petal bracelets, Mehndi floral jewelry, and ceremonial welcome garlands for grooms and guests.",
+      "image": "/src/assets/images/gajra_garlands_service_1786735908863.jpg",
+      "whatsappChannelUrl": "https://whatsapp.com/channel/0029VbDUnhWDzgTK9sqrOY2S",
+      "order": 6
+    },
+    {
+      "id": "service-room",
+      "title": "Room Decorations",
+      "shortDescription": "Romantic bridal bedroom decorations, anniversary setups, surprise birthday rooms, and ambient floral styling.",
+      "longDescription": "Romantic bridal room floral bed decor, helium balloon canopies, LED fairy lights, rose petal pathways, candle accents, and custom celebration setups.",
+      "image": "/src/assets/images/room_decor_service_1786735921409.jpg",
+      "whatsappChannelUrl": "https://whatsapp.com/channel/0029Vb8dfiWIt5s0pMm4050N",
+      "order": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-stage",
+      "name": "Stage Decoration",
+      "slug": "stage-decoration",
+      "description": "Royal luxury wedding stage with gold arches, crystal chandeliers, floral backdrop, and bridal seating."
+    },
+    {
+      "id": "cat-fresh-flower",
+      "name": "Fresh Flower Decoration",
+      "slug": "fresh-flower-decoration",
+      "description": "Premium fresh floral pillars, entryway archways, and vibrant floral arrangements."
+    },
+    {
+      "id": "cat-bouquets",
+      "name": "Fresh & Artificial Bouquets",
+      "slug": "fresh-artificial-bouquets",
+      "description": "Handcrafted bridal bouquets combining fresh red roses, baby's breath, and luxury artificial satin arrangements."
+    },
+    {
+      "id": "cat-car",
+      "name": "Car Decoration",
+      "slug": "car-decoration",
+      "description": "Luxury bridal wedding car adorned with fresh roses, delicate net bows, heart motifs, and golden ribbons."
+    },
+    {
+      "id": "cat-gifts",
+      "name": "Gift Items & Customized Items",
+      "slug": "gift-items-customized-items",
+      "description": "Bespoke event trousseau packing, engagement ring platters, golden bid trays, and celebratory hampers."
+    },
+    {
+      "id": "cat-gajra",
+      "name": "Gajra & Flower Garlands",
+      "slug": "gajra-flower-garlands",
+      "description": "Handcrafted fresh Jasmine/Motia wrist gajras, rose petal bracelets, and royal wedding welcome garlands (Haar)."
+    },
+    {
+      "id": "cat-room",
+      "name": "Room Decorations",
+      "slug": "room-decorations",
+      "description": "Romantic bridal room decor with fresh rose petals, canopy bed styling, fairy lights, and celebration balloons."
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-stage-1",
+      "title": "Royal Luxury Wedding Stage Setup",
+      "slug": "royal-luxury-wedding-stage-setup",
+      "categoryId": "cat-stage",
+      "categoryName": "Stage Decoration",
+      "description": "Royal luxury wedding stage with gold arches, crystal chandeliers, floral backdrop, and bridal seating.",
+      "location": "Marquee Hall, Jarwanda Road, Pakistan",
+      "eventDate": "2026-02-15",
+      "coverImage": "/src/assets/images/stage_gold_royal_1_1786737111344.jpg",
+      "galleryImages": [
+        "/src/assets/images/stage_gold_royal_1_1786737111344.jpg",
+        "/src/assets/images/stage_walima_white_2_1786737125585.jpg",
+        "/src/assets/images/stage_mehndi_floral_3_1786737139807.jpg"
+      ],
+      "isFeatured": true,
+      "isPublished": true,
+      "createdAt": "2026-02-16T10:00:00Z"
+    },
+    {
+      "id": "proj-fresh-1",
+      "title": "Grand Fresh Floral Pillars & Entryway Walkway",
+      "slug": "grand-fresh-floral-pillars-entryway-walkway",
+      "categoryId": "cat-fresh-flower",
+      "categoryName": "Fresh Flower Decoration",
+      "description": "Premium fresh floral pillars, entryway archways, and vibrant floral arrangements.",
+      "location": "Imperial Hall, Pakistan",
+      "eventDate": "2026-02-12",
+      "coverImage": "/src/assets/images/fresh_flower_entry_1_1786737151436.jpg",
+      "galleryImages": [
+        "/src/assets/images/fresh_flower_entry_1_1786737151436.jpg",
+        "/src/assets/images/fresh_flower_stage_2_1786737164062.jpg",
+        "/src/assets/images/fresh_flower_table_3_1786737176517.jpg"
+      ],
+      "isFeatured": true,
+      "isPublished": true,
+      "createdAt": "2026-02-13T10:00:00Z"
+    },
+    {
+      "id": "proj-bouquet-1",
+      "title": "Handcrafted Fresh & Artificial Bridal Bouquets",
+      "slug": "handcrafted-fresh-artificial-bridal-bouquets",
+      "categoryId": "cat-bouquets",
+      "categoryName": "Fresh & Artificial Bouquets",
+      "description": "Handcrafted bridal bouquets combining fresh red roses, baby's breath, and luxury artificial satin arrangements.",
+      "location": "Sada Bahar Boutique, Pakistan",
+      "eventDate": "2026-02-14",
+      "coverImage": "/src/assets/images/bouquet_red_rose_1_1786737193570.jpg",
+      "galleryImages": [
+        "/src/assets/images/bouquet_red_rose_1_1786737193570.jpg",
+        "/src/assets/images/bouquet_pastel_mix_2_1786737207220.jpg",
+        "/src/assets/images/bouquet_artificial_3_1786737221657.jpg"
+      ],
+      "isFeatured": true,
+      "isPublished": true,
+      "createdAt": "2026-02-14T15:00:00Z"
+    },
+    {
+      "id": "proj-car-1",
+      "title": "Luxury Civic Wedding Car Floral Styling",
+      "slug": "luxury-civic-wedding-car-floral-styling",
+      "categoryId": "cat-car",
+      "categoryName": "Car Decoration",
+      "description": "Luxury bridal Honda Civic wedding car adorned with fresh roses, delicate net bows, heart motifs, and golden ribbons.",
+      "location": "Peshawar / PAF Gate, Pakistan",
+      "eventDate": "2026-02-13",
+      "coverImage": "/src/assets/images/civic_car_decor_1_1786808636319.jpg",
+      "galleryImages": [
+        "/src/assets/images/civic_car_decor_1_1786808636319.jpg",
+        "/src/assets/images/car_net_ribbon_2_1786737246612.jpg",
+        "/src/assets/images/car_black_luxury_3_1786737259621.jpg"
+      ],
+      "isFeatured": true,
+      "isPublished": true,
+      "createdAt": "2026-02-13T16:00:00Z"
+    },
+    {
+      "id": "proj-gift-1",
+      "title": "Bespoke Bridal Trousseau & Customized Gift Platters",
+      "slug": "bespoke-bridal-trousseau-customized-gift-platters",
+      "categoryId": "cat-gifts",
+      "categoryName": "Gift Items & Customized Items",
+      "description": "Bespoke event trousseau packing, engagement ring platters, golden bid trays, and celebratory hampers.",
+      "location": "Sada Bahar Decor Studio, Pakistan",
+      "eventDate": "2026-02-11",
+      "coverImage": "/src/assets/images/gift_trousseau_1_1786737275191.jpg",
+      "galleryImages": [
+        "/src/assets/images/gift_trousseau_1_1786737275191.jpg",
+        "/src/assets/images/gift_ring_platter_2_1786737288726.jpg",
+        "/src/assets/images/gift_items_service_1786735893944.jpg"
+      ],
+      "isFeatured": true,
+      "isPublished": true,
+      "createdAt": "2026-02-12T13:00:00Z"
+    },
+    {
+      "id": "proj-gajra-1",
+      "title": "Authentic Handcrafted Fresh Gajra & Royal Garlands",
+      "slug": "authentic-handcrafted-fresh-gajra-royal-garlands",
+      "categoryId": "cat-gajra",
+      "categoryName": "Gajra & Flower Garlands",
+      "description": "Handcrafted fresh Jasmine/Motia wrist gajras, rose petal bracelets, and royal wedding welcome garlands (Haar).",
+      "location": "Sada Bahar Floral Shop, Pakistan",
+      "eventDate": "2026-02-14",
+      "coverImage": "/src/assets/images/gajra_garlands_service_1786735908863.jpg",
+      "galleryImages": [
+        "/src/assets/images/gajra_garlands_service_1786735908863.jpg",
+        "/src/assets/images/mehndi_stage_one_1786558938331.jpg",
+        "/src/assets/images/mehndi_stage_two_1786558957371.jpg"
+      ],
+      "isFeatured": true,
+      "isPublished": true,
+      "createdAt": "2026-02-14T08:00:00Z"
+    },
+    {
+      "id": "proj-room-1",
+      "title": "Romantic Bridal Room Bed Canopy & Ambient Floral Decor",
+      "slug": "romantic-bridal-room-bed-canopy-ambient-floral-decor",
+      "categoryId": "cat-room",
+      "categoryName": "Room Decorations",
+      "description": "Romantic bridal room decor with fresh rose petals, canopy bed styling, fairy lights, and celebration balloons.",
+      "location": "Private Residence, Pakistan",
+      "eventDate": "2026-02-12",
+      "coverImage": "/src/assets/images/room_decor_service_1786735921409.jpg",
+      "galleryImages": [
+        "/src/assets/images/room_decor_service_1786735921409.jpg",
+        "/src/assets/images/room_canopy_roses_1786809483632.jpg",
+        "/src/assets/images/room_white_canopy_1786809500528.jpg"
+      ],
+      "isFeatured": true,
+      "isPublished": true,
+      "createdAt": "2026-02-13T09:00:00Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "customerName": "Muhammad Hamza",
+      "eventCategory": "Barat Wedding Stage",
+      "rating": 5,
+      "comment": "Sada Bahar Decor completely blew us away! The stage was even more magnificent than the photos we discussed. Extremely professional team and punctual setup.",
+      "photos": [
+        "/src/assets/images/hero_wedding_stage_1786553883457.jpg"
+      ],
+      "date": "2026-02-18",
+      "status": "approved",
+      "isFeatured": true
+    },
+    {
+      "id": "rev-2",
+      "customerName": "Usman Ali",
+      "eventCategory": "Bridal Car Decoration",
+      "rating": 5,
+      "comment": "The car decor was fresh, elegant, and held up perfectly throughout the whole evening procession. Highly recommended in the region!",
+      "photos": [
+        "/src/assets/images/car_decor_luxury_1786553908928.jpg"
+      ],
+      "date": "2026-02-02",
+      "status": "approved",
+      "isFeatured": true
+    },
+    {
+      "id": "rev-3",
+      "customerName": "Tariq Khan",
+      "eventCategory": "Walima Stage",
+      "rating": 5,
+      "comment": "The lighting, stage backdrop, and floral arrangements created a truly royal environment. Thank you Sada Bahar team!",
+      "photos": [],
+      "date": "2026-01-20",
+      "status": "approved",
+      "isFeatured": false
+    }
+  ],
+  "queries": [
+    {
+      "id": "query-1",
+      "name": "Shahid Mehmood",
+      "phone": "0300-1234567",
+      "message": "Looking for a Barat stage setup for late March on Jarwanda road. Please share package details.",
+      "createdAt": "2026-02-20T10:15:00Z",
+      "status": "new"
+    }
+  ],
+  "media": [
+    {
+      "id": "media-1",
+      "url": "/src/assets/images/hero_wedding_stage_1786553883457.jpg",
+      "filename": "hero_wedding_stage.jpg",
+      "size": 245000,
+      "mimeType": "image/jpeg",
+      "createdAt": "2026-02-01T00:00:00Z"
+    },
+    {
+      "id": "media-2",
+      "url": "/src/assets/images/sada_bahar_logo_1786553895805.jpg",
+      "filename": "sada_bahar_logo.jpg",
+      "size": 112000,
+      "mimeType": "image/jpeg",
+      "createdAt": "2026-02-01T00:00:00Z"
+    },
+    {
+      "id": "media-3",
+      "url": "/src/assets/images/car_decor_luxury_1786553908928.jpg",
+      "filename": "car_decor_luxury.jpg",
+      "size": 198000,
+      "mimeType": "image/jpeg",
+      "createdAt": "2026-02-01T00:00:00Z"
+    },
+    {
+      "id": "media-4",
+      "url": "/src/assets/images/walima_stage_decor_1786553922433.jpg",
+      "filename": "walima_stage_decor.jpg",
+      "size": 215000,
+      "mimeType": "image/jpeg",
+      "createdAt": "2026-02-01T00:00:00Z"
+    }
+  ],
+  "seo": {
+    "metaTitle": "Sada Bahar Event & Decor | Premium Wedding & Stage Decor Pakistan",
+    "metaDescription": "Sada Bahar Event & Decor specializes in royal wedding stages, bridal car decoration, lighting, and full event management near PAF Gate & Peshawari Hotel.",
+    "keywords": "wedding decoration, stage decor, car decor, event management, Sada Bahar, wedding stages, Jarwanda Road, Peshawar",
+    "ogTitle": "Sada Bahar Event & Decor | Luxury Wedding & Event Management",
+    "ogDescription": "Bespoke stage designs, wedding floral arrangements, and event planning.",
+    "ogImage": "/src/assets/images/hero_wedding_stage_1786553883457.jpg",
+    "canonicalUrl": "https://sadabahardecor.com"
+  },
+  "policies": {
+    "termsAndConditions": "WELCOME TO SADA BAHAR EVENT & DECOR TERMS AND CONDITIONS\n\n1. BOOKINGS & DEPOSITS\nAll event decoration and setup bookings require confirmation with an advance deposit. Event dates are locked upon receipt of the deposit.\n\n2. CANCELLATION POLICY\nCancellations made 14 days prior to the event date are eligible for partial refund minus administrative and flower pre-reservation costs. Cancellations within 7 days of the event are non-refundable.\n\n3. DAMAGE TO DECOR ASSETS\nClients are responsible for any intentional damage or loss of rented furniture, stage lights, sofas, or props during the event duration.\n\n4. SETUP TIME\nOur team requires a minimum setup window of 4–6 hours prior to event commencement depending on the complexity of the stage and venue size.",
+    "privacyPolicy": "SADA BAHAR EVENT & DECOR PRIVACY POLICY\n\n1. INFORMATION WE COLLECT\nWe collect customer contact details (Name, Phone number, Email) provided through our website query forms and review submissions strictly to fulfill service inquiries and maintain customer relations.\n\n2. USE OF CUSTOMER PHOTOS\nCustomer review photos submitted via our website are published only upon moderation approval.\n\n3. DATA PROTECTION\nWe do not sell, rent, or share customer contact information with third-party marketing companies.\n\n4. CONTACT US\nFor questions regarding our privacy policy, contact us at 0333-9161630 or 0332-5841288."
+  },
+  "adminUsers": [
+    {
+      "id": "admin-1",
+      "username": "Humza",
+      "passwordHash": "$2b$10$eKMinVgerriCgzLV8z1QIOQdBYdvAmKx4BZpjzyITvPa1JAHBoiW2",
+      "role": "superadmin",
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "admin-3",
+      "username": "Hammad",
+      "passwordHash": "$2b$10$eKMinVgerriCgzLV8z1QIO6pJGh.8L9ckyKJ81sYRDijgio3f/yDC",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "admin-5",
+      "username": "Alaadeen",
+      "passwordHash": "$2b$10$eKMinVgerriCgzLV8z1QIO6DRZ2OByQ6xA5FZgHkxqq0gfuGE5z9S",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "lastLogin": "2026-08-12T18:03:51.507Z"
+    }
+  ]
+}
